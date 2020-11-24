@@ -1,0 +1,2 @@
+Basic-1: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+Basic-2 closures : https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
