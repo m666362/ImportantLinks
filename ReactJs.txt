@@ -1,0 +1,2 @@
+fayaz's boilet plate: https://github.com/p32929/MyReactBoilerplate.git
+typescript: https://www.youtube.com/watch?v=Z5iWr6Srsj8&t=650s
