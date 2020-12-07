@@ -1,1 +1,2 @@
 https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
+color picker: https://www.photopea.com/
